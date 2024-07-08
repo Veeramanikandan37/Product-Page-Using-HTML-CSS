@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+h1{
+    background-color:darkblue;
+    margin-top: 2rem;
+    color: antiquewhite;
+}
+img{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+body{
+    text-align: center;
+    background-color:skyblue;
+    
+}
+.container{
+    
+    /* width: 45%; */
+    text-align: center;
+    align-items: center;
+}
+.sub .subcont{
+    margin: 2rem;
+    padding: 2rem;
+    background-color:gainsboro;
+    display: inline-block;
+}
+ 
+ 
+.subcont button{  
+    background-color: green;
+    color: antiquewhite;
+}
+.subcont button:hover{  
+    background-color:salmon;
+    color: antiquewhite;
+}
+ 
